@@ -5,14 +5,14 @@ Defense details:
 `3:30pm`              
 `LIS 242`                 
 
-Committee members:
+Committee members:        
+          
+Dr. Carole Palmer - Chair and Director of Research          
+Dr. Michael Twidale         
+Dr. Allen Renear          
+Dr. Peter Fox (Renselear Polytechnic Institute)         
 
-Dr. Carole Palmer - Chair and Director of Research
-Dr. Michael Twidale
-Dr. Allen Renear
-Dr. Peter Fox (Renselear Polytechnic Institute)
-
-This repository contains (or will contain very shortly) the following: 
+This repository contains (or will contain very shortly) the following:          
 
 - Document submitted to commitee members for defense May 12. [PDF]()
 - Supporting materials for document:
