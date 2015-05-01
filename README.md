@@ -1,9 +1,9 @@
 # A Framework for Analyzing the Sustainability of Peer Produced Science Commons
 
-Defense details: 
+Defense details:                
 `05.12.2015`              
 `3:30pm`              
-`Graduate School of Library and Information Science - Room LIS 242`                 
+`LIS 242`                 
 
 Committee members:
 
