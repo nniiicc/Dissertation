@@ -16,9 +16,9 @@ This repository contains (or will contain very shortly) the following:
 
 - Document submitted to commitee members for defense May 12. [PDF]()
 - Supporting materials for document:
-- - Study 1
-- - Study 2 
-- - Study 3
+-- Study 1
+-- Study 2 
+-- Study 3
 - Coding scheme for state variables (in .xslx until put on the web) [Coded State Variables]()
 
 
