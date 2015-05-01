@@ -23,8 +23,9 @@
 \usepackage{natbib}
 \usepackage{booktabs} %For formatting tables 
 \usepackage[justification=raggedright]{caption}	% makes captions ragged right - thanks to BryceLobdell
-
+\usepackage{tabu}
 \usepackage{graphicx}
+\usepackage{csquotes}
 \graphicspath{ {Images/} }
 
 % Uncomment the appropriate one of the following four lines:
@@ -72,10 +73,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ABSTRACT
 %
-\begin{abstract}
+%\begin{abstract}
 % Put the abstract in a file called "abs.tex" and it'll be inputted here.
 %\input{abs}
-\end{abstract}
+%\end{abstract}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -97,7 +98,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % TABLE OF CONTENTS
 %
-%\tableofcontents
+\tableofcontents
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % LIST OF TABLES
@@ -133,18 +134,17 @@
 %\item[$\tau$] Time taken to drink one cup of coffee.
 %\end{symbollist}
 
-%\mainmatter
+\mainmatter
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % INSERT REAL CONTENT HERE
 %
 
-%\input{Ch1-Introduction}
-%\input{Ch2-LitReview}
-%\input{Ch3-Methods}
-%\input{Ch4-KC-Framework2}
+%\input{Ch1}
+%\input{Ch2}
+%\input{Ch3}
+%\input{Ch4}
 \input{Ch5.tex}
-
 %\include{intro}	% for INTRODUCTION in "intro.tex"
 %\include{exper}
 %\include{concl}
@@ -156,14 +156,15 @@
 \appendix
 %\include{apx}
 
-\backmatter
+%\backmatter
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % BIBLIOGRAPHY
 %
 \bibliographystyle{apacite}
+\nocite{*}
 % Put references in BibTeX format in thesisrefs.bib.
-\bibliography{thesisrefs}
+%\bibliography{thesisrefs}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
