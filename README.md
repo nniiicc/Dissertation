@@ -14,12 +14,12 @@ Dr. Peter Fox (Renselear Polytechnic Institute)
 
 This repository contains (or will contain very shortly) the following:          
 
-- Document submitted to commitee members for defense May 12. [PDF]()
+- Document submitted to commitee members for defense May 12. [PDF](https://github.com/nniiicc/Dissertation/raw/master/Weber-05012015.pdf)
 - Supporting materials for document:
 -- Study 1
 -- Study 2 
 -- Study 3
-- Coding scheme for state variables (in .xslx until put on the web) [Coded State Variables]()
+- Coding scheme for state variables (in .xslx until put on the web) [Coded State Variables](https://github.com/nniiicc/Dissertation/raw/master/ICOADS-CodedStateVars.xlsx)
 
 
 Log: 
