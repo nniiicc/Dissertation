@@ -21,7 +21,7 @@ This repository contains the following:
 -- Study 2 
 -- Study 3
 
-*Note: If you find a bug in any of this content (and there are many to find), please consider file an issue [here](https://github.com/nniiicc/Dissertation/issues)
+*Note: If you find a bug in any of this content (and there are many to find), please consider filing an issue [here](https://github.com/nniiicc/Dissertation/issues)
 
 Log: 
 - 28.04.2015 Moving docs from private repo 
