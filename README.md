@@ -14,13 +14,9 @@ Dr. Peter Fox (Renselear Polytechnic Institute)
 
 This repository contains the following:          
 
-- Original document submitted to commitee members for defense May 12. [PDF](https://github.com/nniiicc/Dissertation/raw/master/Weber-05012015.pdf)
-- Copy-edited version (Ch. 6 compies correctly; includes tables in appendix) [PDF](https://github.com/nniiicc/Dissertation/raw/master/Weber-DissertationDraft-05052015.pdf) 
-- Coding scheme for state variables (in .xslx until put on the web) [Coded State Variables](https://github.com/nniiicc/Dissertation/raw/master/ICOADS-CodedStateVars.xlsx)
-- Supporting materials for document: [In Progress]
--- Study 1
--- Study 2 
--- Study 3
+- Original document submitted to commitee members on May, 01. [PDF](https://github.com/nniiicc/Dissertation/raw/master/Weber-05012015.pdf)
+- A much better Copy-edited version (Ch. 6 compiles correctly) [PDF](https://github.com/nniiicc/Dissertation/raw/master/Weber-Dissertation-06052015.pdf) 
+- Coding scheme for state variables (in .xslx until put on the web) [Coded State Variables](https://github.com/nniiicc/Dissertation/raw/master/Weber-StateVariableCoding.xlsx)
 
 *Note: If you find a bug in any of this content (and there are many to find), please consider filing an issue [here](https://github.com/nniiicc/Dissertation/issues)
 
