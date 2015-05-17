@@ -5,7 +5,7 @@ Defense details:
 `3:30pm`              
 `LIS 242`                 
 
-**Defense: Pass**
+**Defense: Pass** !!!!!! 
 
 Committee members:        
           
@@ -30,3 +30,4 @@ Log:
 - 01.05.2015 Upload draft (bib.tex not working)
 - 01.05.2015 (8:00pm CST) Full draft uploaded. Bib needs editing, tables 4.3 + 4.4 need editing. Variable codes turned into html. 
 - 05.05.2015 (10:40 CST) Copy edited draft uploaded. Tables of coded state variables and properties now appear in an Appendix. 
+- 13.05.2015 Upoloaded slides from defense. Will upload edits to final document before deposit. 
