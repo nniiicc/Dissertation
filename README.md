@@ -5,6 +5,8 @@ Defense details:
 `3:30pm`              
 `LIS 242`                 
 
+**Defense: Pass**
+
 Committee members:        
           
 Dr. Carole Palmer - Chair and Director of Research          
@@ -17,6 +19,8 @@ This repository contains the following:
 - Original document submitted to commitee members on May, 01. [PDF](https://github.com/nniiicc/Dissertation/raw/master/Weber-05012015.pdf)
 - A much better Copy-edited version (Ch. 6 compiles correctly) [PDF](https://github.com/nniiicc/Dissertation/raw/master/Weber-Dissertation-06052015.pdf) 
 - Coding scheme for state variables (in .xslx until put on the web) [Coded State Variables](https://github.com/nniiicc/Dissertation/raw/master/Weber-StateVariableCoding.xlsx)
+- Slides used for oral defense [PDF](https://github.com/nniiicc/Dissertation/raw/master/Weber-DissertationDefense.pdf)
+
 
 *Note: If you find a bug in any of this content (and there are many to find), please consider filing an issue [here](https://github.com/nniiicc/Dissertation/issues)
 
